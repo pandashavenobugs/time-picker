@@ -1,5 +1,15 @@
 # note: if you want use ngx-material-timepicker you must install ng material
 
+# before using:
+```shell
+npm install
+```
+
+# manuel installing:
+```shell
+npm i ngx-material-timepicker
+```
+
 # TimePicker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
